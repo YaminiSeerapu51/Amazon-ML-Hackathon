@@ -15,6 +15,7 @@ This project was developed as part of the Amazon ML Hackathon. The goal was to c
 # How to Run
 - Clone the Repository:
 git clone https://github.com/YourUsername/entity-value-extraction.git
+
 cd entity-value-extraction
 
 - Install Dependencies:pip install -r requirements.txt

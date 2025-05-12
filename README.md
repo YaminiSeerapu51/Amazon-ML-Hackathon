@@ -7,8 +7,8 @@ In this hackathon, the goal is to create a machine learning model that extracts 
 ### Dataset : 
 The dataset is divided into two main files:
 
-train.csv: Contains over 310,000 image links along with metadata.
-test.csv: Contains over 130,000 image links along with metadata.
+- train.csv: Contains over 310,000 image links along with metadata.
+- test.csv: Contains over 130,000 image links along with metadata.
 
 Each dataset consists of the following columns: 
 
@@ -36,6 +36,8 @@ Each dataset consists of the following columns:
 2. **dataset/test.csv**: Test file without output labels (`entity_value`). Generate predictions using your model/solution on this file's data and format the output file to match sample_test_out.csv (Refer the above section "Output Format")
 3. **dataset/sample_test.csv**: Sample test input file.
 4. **dataset/sample_test_out.csv**: Sample outputs for sample_test.csv. The output for test.csv must be formatted in the exact same way. Note: The predictions in the file might not be correct.
+
+![WhatsApp Image 2025-05-12 at 20 40 11_72617995](https://github.com/user-attachments/assets/f8fd9c34-e52d-4567-a15f-de781ed2672e)
 
 # Conclusion
 In this hackathon, spanning four days, we faced challenges, particularly with the computational resources needed to process such a large volume of data. Processing the test.csv file, which involved downloading over 52 GB of images and running them through an OCR model, took us collectively more than 20 hours. Despite these obstacles, it was an invaluable experience to work on a real-world problem faced by Amazon.

@@ -39,13 +39,16 @@ Each dataset consists of the following columns:
 
 ![WhatsApp Image 2025-05-12 at 20 40 11_72617995](https://github.com/user-attachments/assets/f8fd9c34-e52d-4567-a15f-de781ed2672e)
 
+# Future Scope 
+This project can also further achieved using HuggingFace and Llama transformers.
+
+# Results
+Our model got the following results:
+    - F1 Score: 0.03 (highest)
+    - But we didn't get shortlisted but it was an incredible experience.
+    
 # Conclusion
 In this hackathon, spanning four days, we faced challenges, particularly with the computational resources needed to process such a large volume of data. Processing the test.csv file, which involved downloading over 52 GB of images and running them through an OCR model, took us collectively more than 20 hours. Despite these obstacles, it was an invaluable experience to work on a real-world problem faced by Amazon.
 
-# Future Scope 
-This project can also further improved using HuggingFace and Llama transformers.
 
-# Results
-Our model achieved the following results:
-    - F1 Score: 0.03 (highest)
-    - Rank: 503 out of 2500+ teams
+  

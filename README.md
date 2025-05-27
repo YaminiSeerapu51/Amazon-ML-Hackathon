@@ -53,7 +53,7 @@ Our model got the following results:
     - But we didn't get shortlisted but it was an incredible experience.
     
 # Conclusion
-In this hackathon, spanning four days, we faced challenges, particularly with the computational resources needed to process such a large volume of data. Processing the test.csv file, which involved downloading over 52 GB of images and running them through an OCR model, took us collectively more than 20 hours. Despite these obstacles, it was an invaluable experience to work on a real-world problem faced by Amazon.
+In this hackathon, spanning four days, we faced challenges, particularly with the computational resources needed to process such a large volume of data. Processing the test.csv file, which involved downloading over 52 GB of images and running them through an OCR model, took us collectively more than 20 hours. Despite these obstacles, it was an invaluable experience to work on a real-world problem hosted by Amazon through Unstop Platform.
 
 
   
